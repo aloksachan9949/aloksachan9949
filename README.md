@@ -118,17 +118,6 @@ About Me = [
 <hr>
 
 </div>
-<div>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=aloksachan9949)](https://git.io/streak-stats)
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aloksachan9949"/></a>
-    <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aloksachan9949"/></a>
-</p>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=aloksachan9949&theme=default" />
-</picture>
-</div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
 </p>
